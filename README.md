@@ -3,4 +3,5 @@ starter guide repo
 
 Hi there,
 
-I want to become a great software engineer from now on!
+I want to become a great software engineer from now on
+Haha!
